@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Title of your feature" skipped="0" tests="1" time="0.52" timestamp="2020-05-19T15:18:30.090-05:00[America/Bogota]"><testcase name="Compra de tv para el mundial de futbol"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+com.choucair.formacion.definition.ExitoBusquedaDefinition.busco_en_la_pagina_de_exito(ExitoBusquedaDefinition.java:20)&#13;
+✽.Given busco en la pagina de exito(src/test/resources/features/exito/forms/Exito.feature:25)&#13;
+</system-err></testcase></testsuite>
